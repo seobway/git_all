@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 Changed in cafe!
 
 i dont like americano 
-=======
 changed in home!
->>>>>>> d4b9e7c7a7c8f88b8b1e65d1754b2ff4d5793ce5
